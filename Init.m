@@ -6,6 +6,6 @@ J = 3.2284E-6;
 b = 3.5077E-6;
 %% Controller parameters
 Kp = 80;
-Ki = 150;
+Ki = 250;
 Ts = 0.01;
-Kd = 50;
+Kd = 150;
